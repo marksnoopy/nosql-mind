@@ -2,4 +2,4 @@
 
 1. 思维导图
 
-![Redis](.\images\Redis.png)
+![Redis](https://github.com/marksnoopy/nosql-mind/blob/master/images/Redis.png)
